@@ -90,9 +90,9 @@ You will have to configure your own login methods if you are not using the Hasur
 
 ## Contribute
 
-React Native Auth boilerplate is an open source project licensed under Apache License 2.0.
+React Native Auth boilerplate is an open source project [licensed](LICENSE) under Apache License 2.0.
 
-Contributions are welcome.
+Contributions are welcome. Please read the [contribution guide](CONTRIBUTING.md) for more information.
 
 ## Gallery
 
